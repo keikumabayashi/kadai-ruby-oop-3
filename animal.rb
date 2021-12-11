@@ -6,7 +6,8 @@ class  Animal
         self.age = age
     end
     
-    def say()
+    def say
         puts "#{self.name}です。#{self.age}歳です。"
     end
 end
+

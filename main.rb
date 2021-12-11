@@ -8,7 +8,8 @@ sato   = Human.new('佐藤 花子',20,'映画')
 # メソッドを実行
 
 tanaka.say
-tanaka.thinkabe
+tanaka.think
 suzuki.say
-suzuki.thinkable
-sato.saysato.thinkabo
+suzuki.think
+sato.say
+sato.think
